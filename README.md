@@ -14,6 +14,21 @@ This project provides scripts to run and control KDE Plasma desktop environment 
 
 ---
 
+## Requirements
+
+1) Minimum 2GB RAM
+2) Minimum 8GB storage 
+3) Android 8 or higher
+4) Termux and Termux:X11 installed
+
+install Termux from:
+https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk
+
+install Termux:X11 from:
+
+https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk
+
+
 ## ⚙️ Commands
 
 After installation:
