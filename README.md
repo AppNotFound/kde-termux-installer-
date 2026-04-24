@@ -25,9 +25,6 @@ ubuntu           # Starts Ubuntu shell environment
 
 ## Commands to install 
 
-
-```bash
-
 pkg update
 pkg install git
 git clone https://github.com/AppNotFound/kde-termux-installer
