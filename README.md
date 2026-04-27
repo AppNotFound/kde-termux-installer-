@@ -42,9 +42,9 @@ ubuntu           # Starts Ubuntu shell environment
 
 pkg update
 pkg install git
-git clone https://github.com/AppNotFound/kde-termux-installer
+git clone https://github.com/AppNotFound/kde-termux-installer.git
 ## If the above command doesn't work try:
-git clone https://github.com/AppNotFound/kde-termux-installer-
+git clone https://github.com/AppNotFound/kde-termux-installer-.git
 ## Then:
 cd kde-termux-installer 
 bash setup.sh
